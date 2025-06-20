@@ -44,6 +44,7 @@ A
          font-weight:bold;
          padding:5px 10px;
          transition:color 0.3s ease;
+         font-size:25px;
 }
 
 .navbar a:hover{
