@@ -1,6 +1,5 @@
 body{ 
      font-family:Arial,sans-serif;
-     line-height:1.6;
      background-color:#ABCDEF
      justify-content:center;
      align-items:center;
@@ -21,7 +20,7 @@ body{
 }
 
 .navbar{
-       background-color:#eeeeee;
+       background-color:#eeeeee! important;
        padding:10px;
        margin-bottom:20px;
 }
